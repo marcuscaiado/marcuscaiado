@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🍮, I'm Marcus Caiado</h1>
+<h1 align="center">Hey 🍮, I'm Marcus Caiado</h1>
 <h3 align="left">A passionate frontend developer whose always trying to think out of the box</h3>
 
 - 🌱 I’m currently learning **React**
