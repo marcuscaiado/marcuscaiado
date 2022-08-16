@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🍮, I'm Marcus Caiado</h1>
 <h3 align="left">A passionate developer whose always trying to think out of the box and loves CSS</h3>
 
-- 🌱 I’m currently learning **React**
+
 
 
 
