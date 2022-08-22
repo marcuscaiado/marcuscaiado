@@ -5,6 +5,7 @@
 
 
 
+<h3 align="left">At the moment learning Solidity to write smart contracts at decentralized applications on the Web3.</h3>
 
 
 
