@@ -1,6 +1,7 @@
 <h1 align="center">Hey 🍮, I'm Marcus Caiado</h1>
 <h3 align="left">A passionate developer whose always trying to think out of the box and loves CSS !</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hey+!+I'm+Marcus+Caiado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 
