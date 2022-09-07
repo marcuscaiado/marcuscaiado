@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,bootstrap,js,php,react,mongodb,mysql" />
