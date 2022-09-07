@@ -8,7 +8,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,php,sass,mysql,mongo" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,javascript,react,php,mysql,mongo" />
 </a>
 </p>
 
