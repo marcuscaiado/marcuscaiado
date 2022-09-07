@@ -1,12 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hey+!+I'm+Marcus+Caiado;Full+Stack+Developer)](https://git.io/typing-svg)
-
 <h3 align="left">A passionate developer whose always trying to think out of the box !</h3>
-
 <h3 align="left">At the moment learning Solidity to write smart contracts at DAPPs on the Web3.</h3>
 
+
 <p align="center">
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
