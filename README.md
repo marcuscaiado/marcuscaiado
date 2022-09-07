@@ -10,9 +10,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,js,php,react,mongodb,mysql" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,php,sass,mysql,mongo" />
+</a>
 </p>
 
 
@@ -26,3 +26,10 @@
 <a href="https://github.com/marcuscaiado"><img width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscaiado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+
+
+<div> 
+<a href="https://www.linkedin.com/in/marcuscaiado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
