@@ -17,6 +17,8 @@
 <br>
 <br>
 <br>
+<img src="https://github-profile-trophy.vercel.app/?username=marcuscaiado&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<br>
 <h3 align="center">My GitHub Stats:</h3>
 <div align="center">
 <a href="https://github.com/marcuscaiado"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuscaiado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
