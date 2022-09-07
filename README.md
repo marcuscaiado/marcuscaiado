@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hey+!+I'm+Marcus+Caiado;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="left">A passionate developer whose always trying to think out of the box !</h3>
+<br>
+<h3 align="left">At the moment learning Solidity to write smart contracts at DAPPs on the Web3.</h3>
+<br>
 
 <p align="center">
 </p>
@@ -12,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="left">At the moment learning Solidity to write smart contracts at DAPPs on the Web3.</h3>
+
 
 ### My GitHub Stats:
 <div align="center">
