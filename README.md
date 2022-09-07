@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado)](https://github.com/marcuscaiado/github-profile-trophy)
+
 <br>
 <h3 align="center">My GitHub Stats:</h3>
 <div align="center">
