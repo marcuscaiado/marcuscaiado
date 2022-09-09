@@ -3,11 +3,11 @@
 <h3 align="left">A passionate developer whose always trying to think out of the box.</h3>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)
+
 
 
 <p align="left">
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,sass,bootstrap,javascript,react,php,nodejs,mysql,mongo" />
@@ -19,6 +19,7 @@
 <div align="left">
   
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)
 
 
 <div> 
