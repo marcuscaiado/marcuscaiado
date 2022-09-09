@@ -22,4 +22,3 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)
-<br>
