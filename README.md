@@ -2,7 +2,9 @@
 <h3 align="center">Hey, I'm Marcus Caiado ! 🍮</h3>
 <h3 align="center">A passionate developer whose always trying to think out of the box.</h3>
 
-<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)</div>
+<div align="center">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)
+</div>
 
 <p align="center">
 <h3 align="center">Languages and Tools:</h3>
