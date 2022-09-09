@@ -26,3 +26,4 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado)](https://github.com/marcuscaiado/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=onedark)](https://github.com/marcuscaiado/github-profile-trophy)
