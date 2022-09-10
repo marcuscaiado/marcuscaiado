@@ -1,9 +1,7 @@
 <h3 align="center">Hey, I'm Marcus Caiado ! 🍮</h3>
 <h3 align="center">A passionate developer whose always trying to think out of the box.</h3>
 
-<br>
-<br>
-<br>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -12,11 +10,6 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,sass,bootstrap,javascript,react,php,nodejs,mysql,mongo" />
 </a>
 </p>
-
-
-<br>
-<br>
-<br>
 
 <h3 align="center">My GitHub Stats:</h3>
 <div align="center">
