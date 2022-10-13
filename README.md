@@ -1,7 +1,10 @@
 <h3 align="center">Hey, I'm Marcus Caiado ! 🍮</h3>
 <h3 align="center">A passionate developer whose always trying to think out of the box.</h3>
 <h3 align="center">Working as a Tech Recruiter, feel free to contact me.</h3>
-
+<div> 
+  
+<a href="http://WWW.linkedin.com/in/marcus-c-a13090249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
@@ -22,8 +25,5 @@
 
 
 
-<div> 
-  
-<a href="http://WWW.linkedin.com/in/marcus-c-a13090249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
