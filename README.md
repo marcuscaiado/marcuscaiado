@@ -3,7 +3,7 @@
 <h3 align="center">Working as a Tech Recruiter, feel free to contact me.</h3>
 <div> 
   
-<a href="http://WWW.linkedin.com/in/marcus-c-a13090249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="http://WWW.linkedin.com/in/marcus-c-a13090249" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
