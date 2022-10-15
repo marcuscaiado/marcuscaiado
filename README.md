@@ -1,4 +1,4 @@
-<h3 align="center">Hey, I'm Marcus Caiado ! 🍮</h3>
+<h3 align="center">Hey, I'm Marcus Caiado ! </h3>
 <h3 align="center">A passionate developer whose always trying to think out of the box.</h3>
 <h3 align="center">Working as a Tech Recruiter at Sitel Group, a multinational company specialized in outsourcing, feel free to contact me.</h3>
 
