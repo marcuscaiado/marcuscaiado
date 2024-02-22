@@ -1,6 +1,7 @@
 <h3 align="center">Hey, I'm Marcus Caiado ! </h3>
 <h3 align="center">A passionate developer whose always trying to think out of the box.</h3>
-<h3 align="center">Working as a Recruiting Specialist at Randstad Sourceright supporting Google.</h3>
+<h3 align="center">Working as a Recruiting Specialist at Randstad Sourceright supporting Google ![image](https://github.com/marcuscaiado/marcuscaiado/assets/92039896/8083bfc1-70e9-440e-b025-e5bcff765d47)
+.</h3>
 <h3 align="center">Feel free to contact me!</h3>
 
 
