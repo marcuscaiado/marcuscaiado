@@ -7,11 +7,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/marcuscaiado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<h3 align="center">My GitHub Stats:</h3>
-<div align="center">
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=marcuscaiado&theme=darkhub&no-frame=true)](https://github.com/marcuscaiado/github-profile-trophy)
   
 <img src="./profile-3d-contrib/profile-night-green.svg" />
 
