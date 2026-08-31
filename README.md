@@ -11,17 +11,18 @@
 
 ### 🕹️ Featured Web Games & Arcade Collection
 
-| ⛳ **Cute Mini Golf 3D** | 🎱 **Kawaii 8-Ball Pool** | 🔫 **Stickman FPS Arcade** |
-| :---: | :---: | :---: |
-| Nintendo-inspired 3D mini golf with 3 kawaii golfers & physics | Cute 2D pool with animated faces, sparkles & 2-player rules | Fast retro bunker shooter with 5 weapons & upgrade shop |
-| [![Play Golf](https://img.shields.io/badge/⛳_Play_Online-05C46B?style=for-the-badge)](https://marcuscaiado.github.io/cute-mini-golf/) | [![Play Pool](https://img.shields.io/badge/🎱_Play_Online-FF5E57?style=for-the-badge)](https://marcuscaiado.github.io/kawaii-8ball-pool/) | [![Play FPS](https://img.shields.io/badge/🔫_Play_Online-FFA801?style=for-the-badge)](https://marcuscaiado.github.io/stickman-fps-arcade/) |
+| ⛳ **Cute Mini Golf 3D** | 🎱 **Kawaii 8-Ball Pool** | 🔫 **Stickman FPS Arcade** | 🌌 **Geometric Survivor 3D** |
+| :---: | :---: | :---: | :---: |
+| Nintendo-inspired 3D mini golf with 3 kawaii golfers & physics | Cute 2D pool with animated faces, sparkles & 2-player rules | Fast retro bunker shooter with 5 weapons & upgrade shop | Cyberpunk roguelite bullet hell with 3D neon shaders |
+| [![Play Golf](https://img.shields.io/badge/⛳_Play-05C46B?style=for-the-badge)](https://marcuscaiado.github.io/cute-mini-golf/) | [![Play Pool](https://img.shields.io/badge/🎱_Play-FF5E57?style=for-the-badge)](https://marcuscaiado.github.io/kawaii-8ball-pool/) | [![Play FPS](https://img.shields.io/badge/🔫_Play-FFA801?style=for-the-badge)](https://marcuscaiado.github.io/stickman-fps-arcade/) | [![Play Survivor](https://img.shields.io/badge/🌌_Play-00F5FF?style=for-the-badge)](https://marcuscaiado.github.io/geometricsurvivor/) |
 
 ---
 
-### 🎨 Creative CSS 3D & Web Experiments
+### 🎨 Creative Web & 3D Lab
 
-| Experiment | Description | Link |
+| Project | Description | Live Demo / Code |
 | :--- | :--- | :---: |
+| 🔴 **Pokédex Web App** | Retro animated Pokédex connecting to PokéAPI | [Play Demo](https://marcuscaiado.github.io/pokedex/) |
 | 🚀 **RGB Rocket** | Pure CSS animated rocket with dynamic engine glow | [View Repo](https://github.com/marcuscaiado/rgb-rocket) |
 | 🧪 **Potion Bottle** | Interactive liquid physics slosh & shadow in pure CSS | [View Repo](https://github.com/marcuscaiado/potion) |
 | 📦 **Amazon 3D Box** | Interactive CSS 3D transform packaging cube | [View Repo](https://github.com/marcuscaiado/cuboamazon) |
